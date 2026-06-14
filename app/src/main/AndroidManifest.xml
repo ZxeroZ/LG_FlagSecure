@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="LG No FlagSecure"
+        android:supportsRtl="true">
+
+        <!-- 1. Le avisa a LSPosed que esto es un módulo Xposed activo -->
+        <meta-data
+            android:name="xposedmodule"
+            android:value="true" />
+
+        <!-- 2. La descripción que verás dentro de la app de LSPosed -->
+        <meta-data
+            android:name="xposeddescription"
+            android:value="Desactiva FLAG_SECURE y el bloqueo MDM de ventanas en dispositivos LG." />
+
+        <!-- 3. La versión mínima de la API de Xposed que requiere (la 82 está perfecta) -->
+        <meta-data
+            android:name="xposedminversion"
+            android:value="82" />
+
+    </application>
+
+</manifest>
