@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/LSPosed-000000?style=flat&logo=xda-developers&logoColor=white" alt="LSPosed"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
 </div>
 
 ---
