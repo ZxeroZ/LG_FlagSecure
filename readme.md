@@ -3,7 +3,12 @@
   <h3>Bypass global de FLAG_SECURE y políticas MDM de ventanas en dispositivos LG.</h3>
 </p>
 
-![Android](https://shields.io) ![Java](https://shields.io) ![LSPosed](https://shields.io) ![Arch Linux](https://shields.io)
+<div align="center">
+  <img src="https://shields.io" alt="Android"/>
+  <img src="https://shields.io" alt="Java"/>
+  <img src="https://shields.io" alt="LSPosed"/>
+  <img src="https://shields.io" alt="Arch Linux"/>
+</div>
 
 
 ---
