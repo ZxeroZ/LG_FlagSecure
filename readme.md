@@ -4,11 +4,12 @@
 </p>
 
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="Android">
+  <img src="https://shields.io" alt="Java">
+  <img src="https://shields.io" alt="LSPosed">
+  <img src="https://shields.io" alt="Arch Linux">
 </p>
+
 
 ---
 
